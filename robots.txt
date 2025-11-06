@@ -1,0 +1,3 @@
+user-agent: *
+Allow: /
+sitemap: https://dr-amaan-chishti.vercel.app/sitemap.xml
